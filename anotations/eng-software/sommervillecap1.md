@@ -43,8 +43,5 @@
 </ul>
 
 
-# Estudo de caso
-
-
 
 
