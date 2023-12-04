@@ -1,0 +1,12 @@
+{
+    "cSpell.language": "en,pt,pt-BR",
+    "cSpell.words": [
+        "idependência",
+        "SGBD"
+    ],
+    "editor.formatOnType": true,
+    "languageTool.enabled": true,
+    "languageToolLinter.enabled": true,
+    "languageToolLinter.languageTool.language": "pt-BR",
+    "languageTool.language": "pt-BR"
+}
